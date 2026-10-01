@@ -1,0 +1,19 @@
+﻿File,Actual,Logistic Regression,SVM
+ms_e3500_c1_frame_627.jpg,motorcycle,motorcycle,motorcycle
+ms_e3500_c1_frame_684.jpg,motorcycle,motorcycle,motorcycle
+ms_e3500_c1_frame_909.jpg,motorcycle,motorcycle,motorcycle
+ms_e3500_c2_frame_563.jpg,motorcycle,motorcycle,motorcycle
+ms_e3500_c2_frame_795.jpg,motorcycle,motorcycle,motorcycle
+ms_e3500_c2_frame_848.jpg,motorcycle,motorcycle,motorcycle
+bs_e4387_c1_frame_182.jpg,bicycle,bicycle,bicycle
+bs_e4387_c1_frame_463.jpg,bicycle,bicycle,bicycle
+bs_e4387_c1_frame_74.jpg,bicycle,bicycle,bicycle
+bs_e4387_c2_frame_105.jpg,bicycle,bicycle,bicycle
+bs_e4387_c2_frame_555.jpg,bicycle,bicycle,bicycle
+bs_e4387_c2_frame_641.jpg,bicycle,bicycle,bicycle
+es_e3768_c1_frame_235.jpg,kickboard,kickboard,kickboard
+es_e3768_c1_frame_457.jpg,kickboard,kickboard,kickboard
+es_e3768_c1_frame_839.jpg,kickboard,kickboard,kickboard
+es_e3768_c2_frame_279.jpg,kickboard,kickboard,kickboard
+es_e3768_c2_frame_550.jpg,kickboard,kickboard,kickboard
+es_e3768_c2_frame_854.jpg,kickboard,kickboard,kickboard

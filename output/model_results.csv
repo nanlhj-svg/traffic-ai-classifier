@@ -1,0 +1,3 @@
+﻿Model,Accuracy,Macro F1
+Logistic Regression,1.0,1.0
+SVM,1.0,1.0
